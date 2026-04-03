@@ -13,18 +13,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on exciting **full-stack projects**
-- 🌱 I'm currently learning **Cloud & DevOps**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **Web Development, JavaScript, Python**
-- 📫 How to reach me: **[dharun36](https://github.com/dharun36)**
-- ⚡ Fun fact: I love turning ☕ coffee into code!
-
+-  I'm currently working on exciting **full-stack projects**
+-  I'm currently learning **Cloud & DevOps**
+-  I'm looking to collaborate on **open-source projects**
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 👨‍💻 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,7 +32,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -47,7 +43,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -56,7 +52,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -65,7 +61,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-### 🔧 Tools & Others
+###  Tools & Others
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -77,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharun36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -94,7 +90,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dharun36&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
@@ -102,16 +98,16 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/dharun36">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/dharun36">
+  <a href="https://www.linkedin.com/in/dharun-ramasamy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dharun36@example.com">
+  <a href="mailto:rdharun36@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -119,5 +115,5 @@
 ---
 
 <p align="center">
-  <i>⭐ If you find my work interesting, consider giving a star to my repos!</i>
+  <i> If you find my work interesting, consider giving a star to my repos!</i>
 </p>
