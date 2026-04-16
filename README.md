@@ -14,7 +14,6 @@
 ## 🙋‍♂️ About Me
 
 -  I'm currently working on exciting **full-stack projects**
--  I'm currently learning **Cloud & DevOps**
 -  I'm looking to collaborate on **open-source projects**
 ---
 
